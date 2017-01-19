@@ -1,16 +1,10 @@
-//
-//  main.cpp
-//  o
-//
-//  Created by IlyaDenisov on 19.01.17.
-//  Copyright © 2017 Denisov's. All rights reserved.
-//
+
 
 #include <iostream>
 
 int main() {
     
-    int N, K;
+    int N = 0, K = 0;
     std::cin >> N >> K;
     std::cout << K / N;
     
